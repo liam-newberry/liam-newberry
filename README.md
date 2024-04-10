@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @liam-newberry
+- 👀 I’m interested in applying to college in CS and learning some new programming skills and languages
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me liamnewberry@icloud.com
