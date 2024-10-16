@@ -8,12 +8,24 @@ I’m currently applying to colleges to pursue a degree in computer science and 
 
 **💻 Skills & Technologies**
 
-Programming Languages: Python, Java, C++
-Applications: Game development, software for QA testing hardware
-Tools & Concepts: Image dithering, threading, spreadsheets, error handling
-Industry Experience:
-Paid Software Intern at Zeno Moto
-Paid Teaching Assistant for AP Computer Science A (APCS)
+ * Programming Languages: 
+    * Python
+    * Java
+    * C++
+ * Applications: 
+    * Game development
+    * App development
+    * Software for hardware diagnostics
+ * Tools & Concepts: 
+    * Image dithering
+    * Threading
+    * Spreadsheets
+    * Error handling  
+    * Web scraping
+    * Excel sheets
+ * Industry Experience:
+    * Paid Software Intern at Zeno Moto
+    * Paid Teaching Assistant for AP Computer Science A (APCS) and Intro to Computer Programming
 
 **🛠️ Featured Projects**
 
