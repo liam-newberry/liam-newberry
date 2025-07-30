@@ -12,6 +12,7 @@ I’m currently applying to colleges to pursue a degree in computer science and 
     * Python
     * Java
     * C++
+    * Dart (including Flutter)
  * Applications: 
     * Game development
     * App development
