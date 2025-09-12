@@ -4,7 +4,7 @@
 
 I'm Liam Newberry, a software developer with hands-on experience in Python, Java, and C++. I’ve worked on a range of projects, from game development to building practical applications. Along with creating software, I’ve gained industry experience as a paid software intern and honed my teaching skills as a paid teaching assistant for AP Computer Science (APCS).
 
-I’m currently applying to colleges to pursue a degree in computer science and software engineering.
+I’m currently studying computer science (BS) at the Universtity of Colorado at Boulder, but reside in San Jose, CA.
 
 **💻 Skills & Technologies**
 
