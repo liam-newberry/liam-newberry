@@ -12,7 +12,6 @@ I’m currently studying computer science (BS) at the Universtity of Colorado at
     * Python
     * Java
     * C++
-    * Dart (including Flutter)
  * Applications: 
     * Game development
     * App development
