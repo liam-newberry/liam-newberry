@@ -1,4 +1,4 @@
-Welcome to my personal GitHub repository! This space showcases my journey as a software developer, from building games and applications to working on real-world projects as an intern and teaching assistant.
+   Welcome to my personal GitHub repository! This space showcases my journey as a software developer, from building games and applications to working on real-world projects as an intern and teaching assistant.
 
 **About Me**
 
@@ -6,7 +6,7 @@ I'm Liam Newberry, a software developer with hands-on experience in Python, Java
 
 I’m currently studying computer science (BS) at the Universtity of Colorado at Boulder, but reside in San Jose, CA.
 
-**💻 Skills & Technologies**
+**Skills & Technologies**
 
  * Programming Languages: 
     * Python
@@ -21,7 +21,7 @@ I’m currently studying computer science (BS) at the Universtity of Colorado at
     * Paid Software Intern at Zeno Moto
     * Paid Teaching Assistant for AP Computer Science A (APCS) and Intro to Computer Programming
 
-**🛠️ Featured Projects**
+**Featured Projects**
 
 1. Jumbo Dash (Game)
 An exciting action-packed game built in Python, featuring intuitive controls and engaging gameplay mechanics.
@@ -30,10 +30,10 @@ Developed a user-friendly app that allows users to convert YouTube videos into d
 3. Asteroids Recreation (Game)
 A Python-based recreation of the classic arcade game Asteroids, focusing on accurate physics and enhanced graphics for a modern twist.
 
-**🚀 Future Goals**
+**Future Goals**
 
 I’m passionate about expanding my knowledge in smart home automation, machine learning, and advanced software development. My goal is to continue building innovative projects that combine creativity with real-world problem-solving.
 
-**📫 Contact**
+**Contact**
 
 For more information or collaboration opportunities, feel free to contact me at liamnewberry@icloud.com.
